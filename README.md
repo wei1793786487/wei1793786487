@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-**wei1793786487/wei1793786487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ /*:
+
+ **wei1793786487/wei1793786487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,5 +15,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+ * item1
+ * item2
+ * item3
+ */
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wei1793786487)](https://github.com/anuraghazra/github-readme-stats)
